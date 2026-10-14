@@ -1,15 +1,18 @@
 # ARTEX Solution
+Site institucional da ARTEX Solution, uma marca da ARTEX SERVIÇOS, Lda.
 
-Site institucional estático da ARTEX Solution, uma marca da ARTEX SERVIÇOS, Lda.
+## Páginas
+- Início: index.html
+- Serviços: servicos.html
+- Portfólio: portfolio.html
+- Sobre nós: sobre.html
+- Contactos: contactos.html
+
+## Contactos publicados
+- WhatsApp: +258 87 315 6686
+- E-mail: servicosartex@gmail.com
 
 ## Publicação
+Site estático HTML/CSS/JavaScript para GitHub Pages, branch main, pasta raiz.
 
-Este site usa HTML, CSS e JavaScript sem dependências. O GitHub Pages pode publicá-lo directamente a partir da branch `main`, pasta raiz.
-
-## Antes da divulgação oficial
-
-- Substituir os campos de contacto pelos dados oficiais da empresa.
-- Confirmar a descrição dos serviços e produtos.
-- Testar o formulário de contacto num telemóvel.
-
-O formulário abre a aplicação de e-mail do visitante; não armazena nem envia dados para um servidor.
+Nota: categorias e produtos são ilustrativos; confirmar stock e condições directamente com a empresa. O formulário abre a aplicação de e-mail do visitante e não armazena dados num servidor.
